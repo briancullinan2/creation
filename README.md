@@ -16,3 +16,6 @@ My take on combining Conway's Game of Life (Scrumfall) with "The Wheel of Time" 
 - Reverse engineer a gnats brain, not to fly in the house
 - Combine with https://www.wi-charge.com/ to control insects brains
 
+## TODO
+
+- Prove this can't be true, "Conway originally conjectured that no pattern can grow indefinitely", if consciousness exists, there should be infinite combinations of cellular life forms.
