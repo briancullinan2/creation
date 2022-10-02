@@ -1,6 +1,6 @@
 # Creation
 
-My take on combining Conway's Game of Life (Scrumfall) with "The Wheel of Time" (Rational Unified Process)
+My take on combining Conway's Game of Life (Scrumfall) with "The Wheel of Time" (Rational Unified Process). Need to think of treating the Game of Live actors as particles instead of "cells" for a lower level of control.
 
 ## Short Term Goals
 
