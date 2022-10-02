@@ -20,3 +20,4 @@ My take on combining Conway's Game of Life (Scrumfall) with "The Wheel of Time" 
 
 - Prove this can't be true, "Conway originally conjectured that no pattern can grow indefinitely", if consciousness exists, there should be infinite combinations of cellular life forms.
 - Universal game of life, feeding existing systems into start conditions for specific cellular functions to predict and emulate real world events.
+- Something like http://digital-eel.com/organism/shots.htm as a Unity or Unreal outcome is a perfect test bed for this kind of simulation.
