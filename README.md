@@ -4,7 +4,7 @@ My take on combining Conway's Game of Life (Scrumfall) with "The Wheel of Time" 
 
 ## Short Term Goals
 
-- CLI output for Game of Life
+- DONE: CLI output for Game of Life
 - Use RUP for micro-managing decision trees
 - Combine multiple games of life at the same time to emulate cellular reproduction
 
@@ -15,6 +15,18 @@ My take on combining Conway's Game of Life (Scrumfall) with "The Wheel of Time" 
 - Emulate RNA/DNA strand generation
 - Reverse engineer a gnats brain, not to fly in the house
 - Combine with https://www.wi-charge.com/ to control insects brains
+
+## Build
+
+source (https://rosettacode.org/wiki/Conway%27s_Game_of_Life#C)[https://rosettacode.org/wiki/Conway%27s_Game_of_Life#C]
+
+```
+gcc -std=c99 -Wall game.c; ./a.out [width] [height]
+```
+
+## Output
+
+![Game](./game.png?raw=true)
 
 ## TODO
 
